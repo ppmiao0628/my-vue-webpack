@@ -1,0 +1,21 @@
+{
+  "name": "webpackvuepro",
+  "version": "1.0.0",
+  "description": "'single page'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mpp ppmiao0628@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.7.1"
+  }
+}
